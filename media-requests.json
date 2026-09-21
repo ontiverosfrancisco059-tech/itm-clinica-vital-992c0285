@@ -1,0 +1,160 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "home-hero-bg",
+      "page": "home",
+      "section": "hero",
+      "category": "custom",
+      "label": "Fondo hero principal de Clinica Vital",
+      "theme": "medical blue white clean",
+      "query": "modern medical clinic interior bright clean lobby with natural light",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-about-img",
+      "page": "home",
+      "section": "about",
+      "category": "place",
+      "label": "Imagen de la clinica - seccion sobre nosotros",
+      "theme": "medical professional trust",
+      "query": "friendly doctor consulting patient in modern mexican clinic",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-services-1",
+      "page": "home",
+      "section": "services",
+      "category": "service",
+      "label": "Servicio de consulta general",
+      "theme": "medical consultation care",
+      "query": "general medical consultation doctor examining patient",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-services-2",
+      "page": "home",
+      "section": "services",
+      "category": "service",
+      "label": "Servicio de laboratorio clinico",
+      "theme": "medical laboratory diagnostic",
+      "query": "clinical laboratory technician analyzing samples modern equipment",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-gallery-1",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Galeria - instalaciones clinica",
+      "theme": "medical facility clean",
+      "query": "modern medical clinic waiting room comfortable clean design",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-gallery-2",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Galeria - equipo medico",
+      "theme": "medical team professional",
+      "query": "diverse medical team doctors nurses professional portrait clinic",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-gallery-3",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Galeria - equipo moderno",
+      "theme": "medical technology advanced",
+      "query": "modern medical equipment stethoscope diagnostic tools close up",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "home-contact-map",
+      "page": "home",
+      "section": "contact",
+      "category": "custom",
+      "label": "Mapa de ubicacion clinica",
+      "theme": "location map pin",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-team-hero",
+      "page": "about",
+      "section": "team",
+      "category": "place",
+      "label": "Equipo medico - pagina关于我们",
+      "theme": "medical team trust",
+      "query": "professional medical team group photo clinic mexican healthcare",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-facility",
+      "page": "about",
+      "section": "facility",
+      "category": "place",
+      "label": "Instalaciones de la clinica",
+      "theme": "medical facility modern",
+      "query": "modern medical clinic facility corridor clean professional mexican healthcare",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "services-detail-bg",
+      "page": "services",
+      "section": "services",
+      "category": "custom",
+      "label": "Fondo pagina de servicios",
+      "theme": "medical blue gradient",
+      "query": "",
+      "priority": "medium",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-hero",
+      "page": "gallery",
+      "section": "gallery",
+      "category": "custom",
+      "label": "Fondo encabezado galeria",
+      "theme": "medical visual collection",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "contact-hero",
+      "page": "contact",
+      "section": "contact",
+      "category": "custom",
+      "label": "Fondo pagina de contacto",
+      "theme": "medical communication reach",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
